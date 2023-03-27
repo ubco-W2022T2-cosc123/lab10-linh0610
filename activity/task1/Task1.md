@@ -9,3 +9,5 @@
 ## Embed an animated gif of your drawing
 
 Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`
+
+![task1](task1.gif)
